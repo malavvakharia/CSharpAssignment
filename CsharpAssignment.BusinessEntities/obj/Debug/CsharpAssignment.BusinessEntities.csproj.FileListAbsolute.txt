@@ -1,0 +1,9 @@
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\bin\Debug\CsharpAssignment.BusinessEntities.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\bin\Debug\CsharpAssignment.BusinessEntities.pdb
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\bin\Debug\CsharpAssignment.Common.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\bin\Debug\CsharpAssignment.Common.pdb
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\obj\Debug\CsharpAssignment.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\obj\Debug\CsharpAssignment.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\obj\Debug\CsharpAssignment.BusinessEntities.csproj.CopyComplete
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\obj\Debug\CsharpAssignment.BusinessEntities.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.BusinessEntities\obj\Debug\CsharpAssignment.BusinessEntities.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\bin\Debug\CsharpAssignment.Common.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\bin\Debug\CsharpAssignment.Common.pdb
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\obj\Debug\CsharpAssignment.Common.csprojAssemblyReference.cache
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\obj\Debug\CsharpAssignment.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\obj\Debug\CsharpAssignment.Common.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssignment.Common\obj\Debug\CsharpAssignment.Common.pdb
